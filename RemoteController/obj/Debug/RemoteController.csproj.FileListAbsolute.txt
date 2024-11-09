@@ -1,0 +1,7 @@
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\bin\Debug\RemoteController.exe
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\bin\Debug\RemoteController.pdb
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\obj\Debug\RemoteController.csproj.AssemblyReference.cache
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\obj\Debug\RemoteController.csproj.CoreCompileInputs.cache
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\obj\Debug\RemoteController.exe
+C:\Users\sadeghbiglar\Desktop\c#\RemoteController\RemoteController\RemoteController\obj\Debug\RemoteController.pdb
